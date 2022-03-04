@@ -1,3 +1,3 @@
 # Turtle-shapes
 My first python module, using turtle library.
-Documentation only avaliable in spanish
+Documentation only available in spanish
